@@ -26,7 +26,7 @@ Crie um arquivo `db.json` ou `db.json5`
 }
 ```
 
-## Routes
+### Routes
 
 Com o arquivo `db.json` como base, você pode seguir estas rotas:
 

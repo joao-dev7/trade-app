@@ -1,0 +1,14 @@
+{
+  "trades": [
+    {
+      "name": "Salário",
+      "value": 8000,
+      "id": "2aa8"
+    },
+    {
+      "id": "7e7e",
+      "name": "Carteira Digital",
+      "value": -100
+    }
+  ]
+}
